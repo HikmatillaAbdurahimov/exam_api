@@ -1,0 +1,15 @@
+1. Authentication and Permission qismlari bo'lsin
+
+2. Har bir model api orqali search qila olsin(bir yoki bir nechta parametrlari orqali)
+
+3. Har bir model uchun qiymatga ega 3 tadan action yaratilsin.
+
+4. Viewlarni ModelViewSet lar orqali yating.
+
+5. Swagger yoki Redoc documentionga ega bo'lsin.
+
+6.  Kamida bitta model uchun rewies parametrga ega bo'lsin.
+    Va bunda manashu objectga har safar click bo'lganda ko'rishlar soni yoki
+    eshitishlar soni 1 taga oshib boradigan action qo'shilsin.
+
+7. Modellar ga meta class qo'shing. Bunda ordering va indexis qo'shilsin.
